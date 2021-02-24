@@ -1,6 +1,8 @@
 # trackins
 Dashboard for Tracking Inspection 
 
+![Logo](trackins.jpg)
+
 ## About this App
 The goals of this app are:
 
